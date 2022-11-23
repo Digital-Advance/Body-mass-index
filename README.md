@@ -1,7 +1,7 @@
 # Start script/Запуск скрипта
 
 ```sh
-    ruby weight.rb
+    ruby weight_en.rb / ruby weight_ru.rb
 ```
 
 # Instruction (EN)
